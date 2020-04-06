@@ -1,0 +1,1 @@
+No arquivo JerseyClient há o exemplo de tratamento de erros.
